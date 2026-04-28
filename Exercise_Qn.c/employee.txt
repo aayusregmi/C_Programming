@@ -1,0 +1,2 @@
+	Name		 address	 age	 id		 salary
+Aayus Regmi		Baglung			21	17272		1000000	
