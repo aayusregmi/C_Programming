@@ -1,2 +1,5 @@
 # C_Programming
-This is all the practice question that i do while learning c-Programming
+<h1>Practice Question</h1>
+<p>This is all the practice question that i did while learning c-Programming.</p>
+<br>
+Author - Aayus Regmi
