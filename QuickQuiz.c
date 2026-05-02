@@ -13,7 +13,7 @@ int main(){
     }
     for (int i = 0; i < n; i++)
     {
-        printf("ptr[%d]:%f\n" , i , ptr[i]);
+        printf("ptr[%d]:%.2f\n" , i , ptr[i]);
     }
     
     return 0;
